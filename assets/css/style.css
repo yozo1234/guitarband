@@ -141,7 +141,7 @@ text-transform: uppercase;
     position: relative;
         margin-top: 46xp;
         padding-top: 50%;
-        background:url('/assets/img/slider/246018896_870559420498933_8625018657396375940_n.jpg') top center /cover no-repeat;
+        background:url('https://github.com/yozo1234/guitarband/blob/master/246018896_870559420498933_8625018657396375940_n.jpg?raw=true) top center /cover no-repeat;
 }
 #slider .text-content {
     position: absolute;
